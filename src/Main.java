@@ -97,6 +97,7 @@ public class Main {
                     "3. Еженедельная,\n" +
                     "4. Ежемесячная,\n" +
                     "5. Ежегодная.");
+
             if (scanner.hasNextInt()) {
                 int i = scanner.nextInt();
                 switch (i) {
