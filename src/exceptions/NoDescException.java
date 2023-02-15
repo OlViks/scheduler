@@ -5,5 +5,6 @@ public class NoDescException extends Exception {
 
     public NoDescException(String message) {
         super(message);
+
     }
 }
